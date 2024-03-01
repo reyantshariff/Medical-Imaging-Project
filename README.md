@@ -1,2 +1,2 @@
 # Medical-Imaging-Project
-DAML Project — Detecting Tumors in MRI Scans
+DAML Project — Detecting Tumors in MRI Scans.
